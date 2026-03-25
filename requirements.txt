@@ -1,0 +1,8 @@
+# head_gesture_detection
+opencv-python==4.10.0.84
+
+# gaze_object_detection
+# opencv-python==4.10.0.84
+ultralytics
+pillow
+
