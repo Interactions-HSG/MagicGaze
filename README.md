@@ -14,8 +14,8 @@
   <img src="assets/example-2.gif" alt="animated" />
 </p>
 
-> **Note:** This repository contains the code for the ETRA 2026 LBW paper:
-> 
+This repository contains the code for the ETRA 2026 Workshop paper:
+
 > **Magic Gaze: Enabling Seamless Control of IoT Devices Through Eye Tracking**
 > *Kenan Bektaş, Tobias Ettling, Simon Mayer, and Jannis Strecker-Bischoff. 2026. In 2026 Symposium on Eye Tracking Research and Applications (ETRA ’26), June 01–04, 2026, Marrakesh, Morocco. ACM, New York, NY, USA, 8 pages. [https://doi.org/10.1145/3797246.3804834](https://doi.org/10.1145/3797246.3804834)*
 
